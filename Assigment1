@@ -36,20 +36,6 @@ public static void main(String[] args) throws IOException{
         fr.close();
 }
 }
-
- 
-
- 
-
-Sent from Mail for Windows 10
-
- 
-
-From: P176099 Muhammad Ahmed Arshed
-Sent: Friday, August 30, 2019 7:43 PM
-To: p176149@nu.edu.pk
-Subject:
-
  
 
 line = reader.readLine();
@@ -58,10 +44,6 @@ line = reader.readLine();
 
 
 	Virus-free. www.avg.com
-
-Ziddi
-Fri, Aug 30, 9:16 PM (9 days ago)
-to me
 
  
 
